@@ -1,4 +1,4 @@
-package loop;
+// A simple program to get the result of a number raised to the power of another number using For Loop
 
 import java.util.Scanner;
 
